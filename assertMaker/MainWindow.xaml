@@ -1,0 +1,29 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:assertMaker"
+        xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core" x:Class="assertMaker.MainWindow"
+        mc:Ignorable="d"
+        Title="Assertion Maker" Height="723.948" Width="804.292" ResizeMode="NoResize">
+    <Grid Height="693" VerticalAlignment="Top" Margin="0,0,2,0">
+        <TextBox x:Name="printAssertTextBox" HorizontalAlignment="Left" Height="612" Margin="427,71,0,0" TextWrapping="Wrap" Text="Press 'GO' to receive asserts" VerticalAlignment="Top" Width="315"/>
+        <Button x:Name="convertButton" Content="GO!" HorizontalAlignment="Left" Height="57" Margin="367,196,0,0" VerticalAlignment="Top" Width="55" Click="ConvertButton_Click"/>
+        <RichTextBox x:Name="getQueryRichTextBox"  HorizontalAlignment="Left" Height="612" Margin="52,71,0,0" VerticalAlignment="Top" Width="310">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="Paste your query here..."/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <ComboBox Name="ComboBox1" Width="175" Height="23"  
+          VerticalAlignment="Top" HorizontalAlignment="Left"  
+            Margin="567,25,0,0" RenderTransformOrigin="0.5,0.565" SelectionChanged="ComboBox1_SelectionChanged">
+            <ComboBoxItem  Content="oDtb(index)" IsSelected="True"></ComboBoxItem>
+            <ComboBoxItem Content="oDtb.Rows(0).ItemArray(1))" Margin="0,0,-2,0"></ComboBoxItem>
+        </ComboBox>
+        <Label Content="Select type of assertion:" HorizontalAlignment="Left" Margin="427,26,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

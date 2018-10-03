@@ -1,0 +1,141 @@
+c:\users\macpc\documents\visual studio 2015\Projects\assertMaker\assertMaker\bin\Debug\assertMaker.exe.config
+c:\users\macpc\documents\visual studio 2015\Projects\assertMaker\assertMaker\bin\Debug\assertMaker.exe
+c:\users\macpc\documents\visual studio 2015\Projects\assertMaker\assertMaker\bin\Debug\assertMaker.pdb
+c:\users\macpc\documents\visual studio 2015\Projects\assertMaker\assertMaker\obj\Debug\MainWindow.g.cs
+c:\users\macpc\documents\visual studio 2015\Projects\assertMaker\assertMaker\obj\Debug\App.g.cs
+c:\users\macpc\documents\visual studio 2015\Projects\assertMaker\assertMaker\obj\Debug\assertMaker_MarkupCompile.cache
+c:\users\macpc\documents\visual studio 2015\Projects\assertMaker\assertMaker\obj\Debug\assertMaker_MarkupCompile.lref
+c:\users\macpc\documents\visual studio 2015\Projects\assertMaker\assertMaker\obj\Debug\MainWindow.baml
+c:\users\macpc\documents\visual studio 2015\Projects\assertMaker\assertMaker\obj\Debug\assertMaker.g.resources
+c:\users\macpc\documents\visual studio 2015\Projects\assertMaker\assertMaker\obj\Debug\assertMaker.Properties.Resources.resources
+c:\users\macpc\documents\visual studio 2015\Projects\assertMaker\assertMaker\obj\Debug\assertMaker.csproj.GenerateResource.Cache
+c:\users\macpc\documents\visual studio 2015\Projects\assertMaker\assertMaker\obj\Debug\assertMaker.exe
+c:\users\macpc\documents\visual studio 2015\Projects\assertMaker\assertMaker\obj\Debug\assertMaker.pdb
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\assertMaker.exe.config
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\assertMaker.exe
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\assertMaker.pdb
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\obj\Debug\MainWindow.g.cs
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\obj\Debug\App.g.cs
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\obj\Debug\assertMaker_MarkupCompile.cache
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\obj\Debug\assertMaker_MarkupCompile.lref
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\obj\Debug\MainWindow.baml
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\obj\Debug\assertMaker.g.resources
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\obj\Debug\assertMaker.Properties.Resources.resources
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\obj\Debug\assertMaker.csproj.GenerateResource.Cache
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\obj\Debug\assertMaker.csproj.CoreCompileInputs.cache
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\obj\Debug\assertMaker.exe
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\obj\Debug\assertMaker.pdb
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\DevExpress.Mvvm.v17.1.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\DevExpress.Xpf.Core.v17.1.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\DevExpress.Mvvm.v17.1.xml
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\DevExpress.Xpf.Core.v17.1.xml
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\de\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\es\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\ja\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\ru\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\obj\Debug\assertMaker.csproj.CopyComplete
+C:\Users\rescodev\Desktop\assertMaker\assertMaker\obj\Debug\assertMaker.csprojAssemblyReference.cache
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\assertMaker.exe.config
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\assertMaker.exe
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\assertMaker.pdb
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\DevExpress.Mvvm.v17.1.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\DevExpress.Xpf.Core.v17.1.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\DevExpress.Mvvm.v17.1.xml
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\DevExpress.Xpf.Core.v17.1.xml
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\de\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\es\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\ja\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\ru\DevExpress.Xpf.Core.v17.1.resources.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\obj\Debug\MainWindow.g.cs
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\obj\Debug\App.g.cs
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\obj\Debug\assertMaker_MarkupCompile.cache
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\obj\Debug\assertMaker_MarkupCompile.lref
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\obj\Debug\MainWindow.baml
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\obj\Debug\assertMaker.g.resources
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\obj\Debug\assertMaker.Properties.Resources.resources
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\obj\Debug\assertMaker.csproj.GenerateResource.cache
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\obj\Debug\assertMaker.csproj.CoreCompileInputs.cache
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\obj\Debug\assertMaker.csproj.CopyComplete
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\obj\Debug\assertMaker.exe
+C:\Users\rescodev\Desktop\assertMaker refactoring\assertMaker\obj\Debug\assertMaker.pdb
+S:\assertMaker\assertMaker\bin\Debug\assertMaker.exe.config
+S:\assertMaker\assertMaker\bin\Debug\assertMaker.exe
+S:\assertMaker\assertMaker\bin\Debug\assertMaker.pdb
+S:\assertMaker\assertMaker\bin\Debug\DevExpress.CodeParser.v17.1.dll
+S:\assertMaker\assertMaker\bin\Debug\DevExpress.Data.v17.1.dll
+S:\assertMaker\assertMaker\bin\Debug\DevExpress.Mvvm.v17.1.dll
+S:\assertMaker\assertMaker\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+S:\assertMaker\assertMaker\bin\Debug\DevExpress.Xpf.Core.v17.1.dll
+S:\assertMaker\assertMaker\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+S:\assertMaker\assertMaker\bin\Debug\DevExpress.Data.v17.1.xml
+S:\assertMaker\assertMaker\bin\Debug\DevExpress.Mvvm.v17.1.xml
+S:\assertMaker\assertMaker\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+S:\assertMaker\assertMaker\bin\Debug\DevExpress.Xpf.Core.v17.1.xml
+S:\assertMaker\assertMaker\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+S:\assertMaker\assertMaker\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+S:\assertMaker\assertMaker\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+S:\assertMaker\assertMaker\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+S:\assertMaker\assertMaker\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+S:\assertMaker\assertMaker\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+S:\assertMaker\assertMaker\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+S:\assertMaker\assertMaker\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+S:\assertMaker\assertMaker\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+S:\assertMaker\assertMaker\bin\Debug\de\DevExpress.Xpf.Core.v17.1.resources.dll
+S:\assertMaker\assertMaker\bin\Debug\es\DevExpress.Xpf.Core.v17.1.resources.dll
+S:\assertMaker\assertMaker\bin\Debug\ja\DevExpress.Xpf.Core.v17.1.resources.dll
+S:\assertMaker\assertMaker\bin\Debug\ru\DevExpress.Xpf.Core.v17.1.resources.dll
+S:\assertMaker\assertMaker\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+S:\assertMaker\assertMaker\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+S:\assertMaker\assertMaker\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+S:\assertMaker\assertMaker\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+S:\assertMaker\assertMaker\obj\Debug\assertMaker.csprojAssemblyReference.cache
+S:\assertMaker\assertMaker\obj\Debug\MainWindow.g.cs
+S:\assertMaker\assertMaker\obj\Debug\App.g.cs
+S:\assertMaker\assertMaker\obj\Debug\assertMaker_MarkupCompile.cache
+S:\assertMaker\assertMaker\obj\Debug\assertMaker_MarkupCompile.lref
+S:\assertMaker\assertMaker\obj\Debug\MainWindow.baml
+S:\assertMaker\assertMaker\obj\Debug\assertMaker.g.resources
+S:\assertMaker\assertMaker\obj\Debug\assertMaker.Properties.Resources.resources
+S:\assertMaker\assertMaker\obj\Debug\assertMaker.csproj.GenerateResource.cache
+S:\assertMaker\assertMaker\obj\Debug\assertMaker.csproj.CoreCompileInputs.cache
+S:\assertMaker\assertMaker\obj\Debug\assertMaker.csproj.CopyComplete
+S:\assertMaker\assertMaker\obj\Debug\assertMaker.exe
+S:\assertMaker\assertMaker\obj\Debug\assertMaker.pdb
